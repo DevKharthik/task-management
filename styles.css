@@ -35,10 +35,10 @@ h1 {
 
 .task-input button {
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #ef0b0b;
     border-left: none;
-    background-color: #28a745;
-    color: #fff;
+    background-color: #e1fe08;
+    color: #ffffff;
     border-radius: 0 4px 4px 0;
     cursor: pointer;
 }
